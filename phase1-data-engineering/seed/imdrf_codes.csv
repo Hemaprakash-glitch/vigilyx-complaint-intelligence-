@@ -1,0 +1,11 @@
+imdrf_code,code_level,description
+A0101,A,Mechanical failure
+A0102,A,Leakage detected
+A0103,A,Needle breakage
+A0104,A,Occlusion
+E0201,E,Minor injury
+E0202,E,Major injury
+E0203,E,Patient discomfort
+F0301,F,Packaging defect
+F0302,F,Labeling error
+F0303,F,Sterility issue

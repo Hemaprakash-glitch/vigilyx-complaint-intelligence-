@@ -1,0 +1,11 @@
+product_code,product_name,device_code,launch_date
+PIVC-001,Peripheral IV Catheter,DEV-PIVC,2019-03-15
+SYR-001,Safety Syringe,DEV-SYR,2020-01-10
+IVS-001,IV Infusion Set,DEV-IVS,2018-11-05
+NGT-001,Nasogastric Tube,DEV-NGT,2021-07-20
+FOL-001,Foley Catheter,DEV-FOL,2019-09-18
+CVC-001,Central Venous Catheter,DEV-CVC,2020-05-22
+BAG-001,Urine Collection Bag,DEV-BAG,2018-08-30
+EXT-001,Extension Set,DEV-EXT,2021-02-15
+CAN-001,IV Cannula,DEV-CAN,2022-04-01
+TUB-001,Feeding Tube,DEV-TUB,2019-12-12
