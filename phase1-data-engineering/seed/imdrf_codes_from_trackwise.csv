@@ -1,0 +1,27 @@
+imdrf_code,description,code_level
+A0101,Break/fracture,A
+A0105,Deformation/bending,A
+A0301,Leakage,A
+A0501,Separation/disconnection,A
+A0601,Obstruction/blockage,A
+A0801,Discoloration,A
+A1001,Contamination,A
+A1301,Software malfunction,A
+A1501,Incorrect/inadequate labeling,A
+A1601,Packaging failure,A
+A1701,Adhesion/bonding failure,A
+A2001,Electrical malfunction,A
+E0101,"Device operated as intended, no patient involvement",E
+E0102,"Device operated as intended, patient involved",E
+E0301,"Device did not operate as intended, no patient involvement",E
+E0302,"Device did not operate as intended, patient involved",E
+E0401,Device operated incorrectly due to user error,E
+E0501,Patient was exposed to a potential hazard from the device,E
+F0101,No known impact or injury,F
+F0102,"No injury or impact, evaluation inconclusive",F
+F0201,"Temporary injury, no intervention required",F
+F0202,"Temporary injury, non-surgical intervention required",F
+F0301,"Serious injury, surgical intervention required",F
+F0302,"Serious injury, hospitalization required",F
+F0401,Life-threatening injury,F
+F0501,Death,F
